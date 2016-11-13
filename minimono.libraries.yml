@@ -3,3 +3,5 @@ global-styling:
   css:
     base:
       css/base/base.css: {}
+    theme:
+      //fonts.googleapis.com/css?family=Inconsolata:400,700: { type: external }
