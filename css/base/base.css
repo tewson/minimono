@@ -24,6 +24,15 @@ a:hover {
   }
 }
 
+.links {
+  text-align: right;
+}
+
+.links.inline li a {
+  padding: 10px;
+}
+
+.links.inline li,
 .pager__item {
   display: inline;
 }
