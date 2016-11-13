@@ -72,3 +72,15 @@ footer {
   font-size: 2rem;
   font-weight: 700;
 }
+
+#block-minimono-main-menu {
+  text-align: right;
+}
+
+#block-minimono-main-menu li {
+  display: inline;
+}
+
+#block-minimono-main-menu li a {
+  padding: 10px;
+}
