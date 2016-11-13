@@ -23,3 +23,11 @@ a:hover {
     padding-right: 50px;
   }
 }
+
+.pager__item {
+  display: inline;
+}
+
+.pager__item a {
+  padding: 10px;
+}
