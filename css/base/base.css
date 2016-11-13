@@ -31,3 +31,12 @@ a:hover {
 .pager__item a {
   padding: 10px;
 }
+
+#block-sitebranding {
+  text-align: center;
+}
+
+#block-sitebranding a {
+  font-size: 2rem;
+  font-weight: 700;
+}
