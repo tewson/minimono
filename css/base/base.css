@@ -12,6 +12,10 @@ a:hover {
   text-decoration: underline;
 }
 
+article[role="article"] {
+  margin-bottom: 50px;
+}
+
 .layout-container {
   max-width: 600px;
   margin: 0 auto;
