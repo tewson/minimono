@@ -11,3 +11,15 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.layout-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+  .layout-container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
