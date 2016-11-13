@@ -1,0 +1,8 @@
+name: Minimono
+type: theme
+description: A minimalist, monospaced theme.
+core: 8.x
+regions:
+  header: Header
+  content: Content
+  footer: Footer
