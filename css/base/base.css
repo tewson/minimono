@@ -41,11 +41,21 @@ footer {
   padding: 10px;
 }
 
+.field__entity-reference ul {
+  padding-left: 0;
+  text-align: right;
+}
+
+.field__entity-reference li:not(:last-child):after {
+  content: ",";
+}
+
 .pager {
   text-align: center;
 }
 
 .links.inline li,
+.field__entity-reference li,
 .pager__item {
   display: inline;
 }
