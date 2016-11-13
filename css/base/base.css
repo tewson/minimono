@@ -12,8 +12,13 @@ a:hover {
   text-decoration: underline;
 }
 
+main,
 article[role="article"] {
   margin-bottom: 50px;
+}
+
+footer {
+  text-align: right;
 }
 
 .layout-container {
