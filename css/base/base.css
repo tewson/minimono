@@ -34,15 +34,12 @@ footer {
   }
 }
 
-.links {
-  text-align: right;
-}
-
 .links.inline li a {
   padding: 10px;
 }
 
-.field__entity-reference ul {
+.field__entity-reference ul,
+.links {
   padding-left: 0;
   text-align: right;
 }
