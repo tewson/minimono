@@ -18,6 +18,25 @@ article[role="article"] {
   margin-bottom: 50px;
 }
 
+article table,
+article table th,
+article table td {
+  border: 1px solid black;
+}
+
+article table {
+  border-collapse: collapse;
+}
+
+article table tr:nth-child(even) {
+  background-color: #CCC;
+}
+
+article table th,
+article table td {
+  padding: 3px;
+}
+
 footer {
   text-align: right;
 }
